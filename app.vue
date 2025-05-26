@@ -1,4 +1,3 @@
 <template>
   <FormLogin />
-
 </template>
